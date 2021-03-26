@@ -11,6 +11,11 @@
 ## Description
 An offline workout tracker that allows the user to log excersises and track their dail excersises. The bashboard allows the user to view their performance statistics and total duration of their workouts combined.
 
+Application should appear as below:
+<img src="./public/Assets/Front.png"/>
+<br>
+<img src="./public/Assets/Dashboard.png"/>
+
 ## Technologies
 MonogoDB, Mongoose, Express, Heroku
 
