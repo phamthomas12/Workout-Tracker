@@ -6,15 +6,15 @@
 [Description](#Description) <br>
 [Technologies](#Technologies) <br>
 [Installation](#Installation) <br>
-[Public Host](#Public Host) <br>
+[Public-Host](#Public-Host) <br>
 
 ## Description
 An offline workout tracker that allows the user to log excersises and track their dail excersises. The bashboard allows the user to view their performance statistics and total duration of their workouts combined.
 
 Application should appear as below:
-<img src="./public/Assets/Front.png"/>
+<img src="./public/Assets/Front.PNG"/>
 <br>
-<img src="./public/Assets/Dashboard.png"/>
+<img src="./public/Assets/Dashboard.PNG"/>
 
 ## Technologies
 MonogoDB, Mongoose, Express, Heroku
